@@ -1,0 +1,5 @@
+networkx
+matplotlib
+json
+community
+csv
